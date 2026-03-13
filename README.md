@@ -15,9 +15,6 @@
 
 Automated ingestion · Distributed processing · ML analytics · Interactive dashboards
 
-<br/>
-
-![Pipeline Architecture](images/data-pipeline-architecture.png)
 
 </div>
 
